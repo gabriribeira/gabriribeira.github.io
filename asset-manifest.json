@@ -1,31 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.dd01d0ee.css",
-    "main.js": "./static/js/main.b19c6ff0.js",
-    "static/media/gabriel.png": "./static/media/gabriel.edde37eab4b7692a9a05.png",
-    "static/media/marimarques.png": "./static/media/marimarques.c323e35a5771c311a683.png",
-    "static/media/n27-regular-webfont.ttf": "./static/media/n27-regular-webfont.ee32285d6d920cd4bdef.ttf",
-    "static/media/gabriribeira.jpg": "./static/media/gabriribeira.272a9139b0a1d16b70ba.jpg",
-    "static/media/silkamono-light-webfont.ttf": "./static/media/silkamono-light-webfont.50ea7129e3fb107e626d.ttf",
-    "static/media/silkamono-regular-webfont.ttf": "./static/media/silkamono-regular-webfont.507fe68969adb1e84c2e.ttf",
-    "static/media/logo.png": "./static/media/logo.fce63c5b8f5d13a1dae6.png",
-    "static/media/n27-regular-webfont.woff": "./static/media/n27-regular-webfont.35c62292b2cbee60eb45.woff",
-    "static/media/n27-regular-webfont.eot": "./static/media/n27-regular-webfont.95ae60de53714d985c88.eot",
-    "static/media/silkamono-light-webfont.eot": "./static/media/silkamono-light-webfont.cd082ce42186449b7ab4.eot",
-    "static/media/silkamono-regular-webfont.eot": "./static/media/silkamono-regular-webfont.a90bb2a1983dd7446679.eot",
-    "static/media/silkamono-light-webfont.woff2": "./static/media/silkamono-light-webfont.129ca866d7ed7aaf6d8e.woff2",
-    "static/media/silkamono-regular-webfont.woff2": "./static/media/silkamono-regular-webfont.c02ac2f3fa08414ad5c4.woff2",
-    "static/media/SearchIcon.svg": "./static/media/SearchIcon.f38bb48cbb5368ea47b9b48529103fd0.svg",
-    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "main.css": "./static/css/main.3fd85d0a.css",
+    "main.js": "./static/js/main.02a3a6fb.js",
     "index.html": "./index.html",
-    "main.dd01d0ee.css.map": "./static/css/main.dd01d0ee.css.map",
-    "main.b19c6ff0.js.map": "./static/js/main.b19c6ff0.js.map"
+    "main.3fd85d0a.css.map": "./static/css/main.3fd85d0a.css.map",
+    "main.02a3a6fb.js.map": "./static/js/main.02a3a6fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd01d0ee.css",
-    "static/js/main.b19c6ff0.js"
+    "static/css/main.3fd85d0a.css",
+    "static/js/main.02a3a6fb.js"
   ]
 }
