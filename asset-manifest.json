@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0ad69ec9.css",
-    "main.js": "./static/js/main.d415bb09.js",
+    "main.css": "./static/css/main.52ddd63f.css",
+    "main.js": "./static/js/main.e47cf9fa.js",
     "static/media/Video.gif": "./static/media/Video.756de400d541877a9751.gif",
     "static/media/Tenho.gif": "./static/media/Tenho.9206a9d2ce514aa1b565.gif",
     "static/media/Analog1.jpg": "./static/media/Analog1.5b446c65afd5895161ca.jpg",
@@ -13,11 +13,11 @@
     "static/media/Conf.jpg": "./static/media/Conf.3c5d977fda1dd354b9a0.jpg",
     "static/media/arrow.svg": "./static/media/arrow.0d416b686e976221b91b6f2cdb16c822.svg",
     "index.html": "./index.html",
-    "main.0ad69ec9.css.map": "./static/css/main.0ad69ec9.css.map",
-    "main.d415bb09.js.map": "./static/js/main.d415bb09.js.map"
+    "main.52ddd63f.css.map": "./static/css/main.52ddd63f.css.map",
+    "main.e47cf9fa.js.map": "./static/js/main.e47cf9fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ad69ec9.css",
-    "static/js/main.d415bb09.js"
+    "static/css/main.52ddd63f.css",
+    "static/js/main.e47cf9fa.js"
   ]
 }
